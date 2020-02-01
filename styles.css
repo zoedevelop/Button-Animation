@@ -33,11 +33,9 @@ a{
     -moz-box-reflect: below 1px linear-gradient(transparent, #0005);
 }
 a:nth-child(1){
-    filter: hue-rotate(290deg);
-}
-a:nth-child(3){
     filter: hue-rotate(110deg);
 }
+
 
 a:hover{
     background: #03e9f4;
